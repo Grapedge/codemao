@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58d2be0844df68084c27805ffd4e4c0f",
+    "revision": "0ec34343d157a824e2bd7483fbe92299",
     "url": "/codemao/index.html"
   },
   {
-    "revision": "dea5ebeb8d347e5cdcb9",
+    "revision": "d6760ea8b16b4fcc8096",
     "url": "/codemao/static/css/main.aeaace4d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/codemao/static/js/2.00e27b54.chunk.js"
   },
   {
-    "revision": "dea5ebeb8d347e5cdcb9",
-    "url": "/codemao/static/js/main.7694d64a.chunk.js"
+    "revision": "d6760ea8b16b4fcc8096",
+    "url": "/codemao/static/js/main.a7603818.chunk.js"
   },
   {
     "revision": "f6a6442ec8bd9b662d8e",
