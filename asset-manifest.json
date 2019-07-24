@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/codemao/static/css/main.b4dbfc60.chunk.css",
-    "main.js": "/codemao/static/js/main.79b2ca1b.chunk.js",
-    "main.js.map": "/codemao/static/js/main.79b2ca1b.chunk.js.map",
+    "main.js": "/codemao/static/js/main.1487a73b.chunk.js",
+    "main.js.map": "/codemao/static/js/main.1487a73b.chunk.js.map",
     "runtime~main.js": "/codemao/static/js/runtime~main.d50e1bae.js",
     "runtime~main.js.map": "/codemao/static/js/runtime~main.d50e1bae.js.map",
     "static/js/2.2282442f.chunk.js": "/codemao/static/js/2.2282442f.chunk.js",
     "static/js/2.2282442f.chunk.js.map": "/codemao/static/js/2.2282442f.chunk.js.map",
     "index.html": "/codemao/index.html",
-    "precache-manifest.e4032c610301f05bbe609c344efe2aad.js": "/codemao/precache-manifest.e4032c610301f05bbe609c344efe2aad.js",
+    "precache-manifest.934f5584ec8279a837bffe4390b74887.js": "/codemao/precache-manifest.934f5584ec8279a837bffe4390b74887.js",
     "service-worker.js": "/codemao/service-worker.js",
     "static/css/main.b4dbfc60.chunk.css.map": "/codemao/static/css/main.b4dbfc60.chunk.css.map"
   }
