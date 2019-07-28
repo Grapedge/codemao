@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codemao2/static/css/main.b4dbfc60.chunk.css",
+    "main.js": "/codemao2/static/js/main.fe537dc4.chunk.js",
+    "main.js.map": "/codemao2/static/js/main.fe537dc4.chunk.js.map",
+    "runtime~main.js": "/codemao2/static/js/runtime~main.cb645b28.js",
+    "runtime~main.js.map": "/codemao2/static/js/runtime~main.cb645b28.js.map",
+    "static/js/2.2282442f.chunk.js": "/codemao2/static/js/2.2282442f.chunk.js",
+    "static/js/2.2282442f.chunk.js.map": "/codemao2/static/js/2.2282442f.chunk.js.map",
+    "index.html": "/codemao2/index.html",
+    "precache-manifest.1fcdab7a333eea626b4f6262ec587037.js": "/codemao2/precache-manifest.1fcdab7a333eea626b4f6262ec587037.js",
+    "service-worker.js": "/codemao2/service-worker.js",
+    "static/css/main.b4dbfc60.chunk.css.map": "/codemao2/static/css/main.b4dbfc60.chunk.css.map"
+  }
+}
